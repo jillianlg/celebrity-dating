@@ -1,4 +1,4 @@
-# _Celebritiy Match_
+# _Celebritiy Match Maker_
 
 #### _Utilizes branching techniques with forms, 8.13.2020_
 
@@ -13,7 +13,7 @@ _This HTML demonstrates the fundamental understanding of using branching with fo
 * _Clone down repository from Git Hub to machine._
 * _Navigate to root directory._
 * _Open index.html in text editor to view code._
-* _Launch index.html to in browser to display._
+* _Launch index.html to in browser to displayor view via [ghpages](https://jillianlg.github.io/celebrity-dating/)._
 
 
 ## Known Bugs

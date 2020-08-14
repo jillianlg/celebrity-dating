@@ -1,4 +1,4 @@
-# _Celebritiy Match_
+# _Celebrity Match_
 
 #### _Utilizes branching techniques with forms, 8.13.2020_
 

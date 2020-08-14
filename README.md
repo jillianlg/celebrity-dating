@@ -1,4 +1,4 @@
-# _Celebritiy Match Maker_
+# _Celebrity Match Maker_
 
 #### _Utilizes branching techniques with forms, 8.13.2020_
 

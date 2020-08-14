@@ -10,49 +10,45 @@ body {
   text-align: center;
   color: rgb(255, 255, 255);
   padding: 30px;
-  border: outset rgb(255, 254, 255);
+  border: outset rgb(192, 192, 192);
   border-width: 10px;
-  /* border-radius: 20px; */
-  background-color: #006e99);
+  background-color: #006e99;
   font-family: 'marker felt', fantasy;
 }
+
 #ageBox {
   padding: 10px;
   text-align: center;  
-  border: outset rgb(255, 254, 255);
-  /* border-radius: 10px; */
-  background-color: #006e99);
+  border: outset rgb(192, 192, 192);
+  background-color: #006e99;
   font-family: 'marker felt', fantasy;
 }
+
 #colorBox {
   padding: 10px;
   text-align: center;  
-  border: outset rgb(255, 254, 255);
-  /* border-radius: 10px; */
-  background-color: #006e99);
+  border: outset rgb(192, 192, 192);
+  background-color: #006e99;
   font-family: 'marker felt', fantasy;
 }
 #locationBox {
   padding: 10px;
   text-align: center;
-  /* border: outset rgb(255, 254, 255); */
-  /* border-radius: 10px; */
-  background-color: #006e99);
+  border: outset rgb(192, 192, 192);
+  background-color: #006e99;
   font-family: 'marker felt', fantasy;
 }
 #match {
   padding: 10px;
   text-align: center;
-  border: outset rgb(255, 254, 255);
-  /* border-radius: 10px; */
-  background-color: #006e99);
+  border: outset rgb(192, 192, 192);
+  background-color: #006e99;
   font-family: 'marker felt', fantasy;
 }
 .matchTitle { 
   padding: 10px;
   text-align: center;  
-  border: outset rgb(255, 254, 255);
-  /* border-radius: 10px; */
-  background-color: #006e99);
+  border: outset rgb(192, 192, 192);
+  background-color: #006e99;
   font-family: 'marker felt', fantasy;
 }

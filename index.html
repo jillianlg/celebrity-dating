@@ -7,11 +7,91 @@
   <script src="js/scripts.js"></script>
   <title>Celebrity Dating</title>
 </head>
+
 <body>
+<!-- Form Header -->
   <div class="container">
     <div class="mainHeader">
       <h1>Celebrity Match Maker</h1>
-      <h3>Enter your info to be matched with the fictional character of your dreams!</h3>
+      <h3>Enter your info to be matched with your perfect mate!</h3>
     </div>  
+    <!-- Age Card -->
+    <div class="card" id="ageBox">
+      <div class="card-body">
+        <form id="profileInfo">
+          <div class="form-group">
+            <label for="age">What is your age?</label>
+            <input id="age" type="text">
+          </div>
+      </div>
+    </div>
+    <!-- Color Card -->
+    <div class="card" id="colorBox">
+      <div class="card-body">
+        <div class="form-group">
+          <label for="color">What is your favorite color?</label>
+          <select class="form-control" id="color">
+            <option>Red</option>
+            <option>Black</option>
+            <option>Purple</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <!-- Location Card -->
+    <div class="card" id="locationBox">
+      <div class="card-body">
+        <div class="form-group">
+          <label for="location">Where do you like to vacation?</label>
+          <select class="form-control" id="color">
+            <option>City</option>
+            <option>Desert</option>
+            <option>Ocean</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <!-- Answer Header -->
+    <div class="card">
+      <div class="card-body">
+        <div class="match">
+          <h1 class="matchTitle">You matched with:</h1>
+        </div>
+      </div>
+    </div>
+    <!-- Answer Cards -->
+    <div class="card" id ="match">
+      <div class="card-body">
+        <div class="flounder">        
+          <h2>Flounder</h2>
+          <img src="https://vignette.wikia.nocookie.net/disney/images/6/60/Profile_-_Flounder.jpeg/revision/latest/scale-to-width-down/516?cb=20191026173646" alt="Flounder Disney's form The Little Mermaid" width="50%">
+          <h3>Oops. Looks like you are not quite old enough for a match yet. <br> How about a fish instead! <br> He's loyal, and despite his shy demeanor, he'll love embarking on adventures with you.</h3>
+        </div>
+        <div class="merlin">
+          <h2>Merlin</h2>
+          <img src="https://vignette.wikia.nocookie.net/disney/images/e/ee/Merlin_Sword_in_the_Stone.jpeg/revision/latest/scale-to-width-down/516?cb=20190201105709" alt="Merlin from Disney's The Sword in the Stone" width="50%">
+          <h3>Wise in years, he is a powerful wizard that is bound to match you wit for wit. Just don't be surprised when his absentmindedness complicates his storytelling.</h3>
+        </div>
+        <div class="cruella">
+          <h2>Cruella De Villa</h2>
+          <img src="https://vignette.wikia.nocookie.net/disney/images/9/92/Profile_-_Cruella.png/revision/latest/scale-to-width-down/516?cb=20190312122644" alt="Cruella De Villa from Disney's 101 Dalmations" width="50%">
+          <h3>You and Cruella will be quite a pair zipping around the city, checking out high art and fashion in her red Panther De Ville.</h3>
+        </div>
+        <div class="batman">
+          <h2>Ursala</h2>
+          <img src="https://vignette.wikia.nocookie.net/disney/images/7/72/Profile_-_Ursula.jpeg/revision/latest/scale-to-width-down/516?cb=20190312053911" alt="Ursala from Disney's The Little Mermaif" width="50%">
+          <h3>Ursala will charm you with her wicked sense of humor. Her entrepreneurial spirit and skillful business savvy with have you vacationing at oceanfront properties around the world!</h3>
+        </div>
+        <div class="jafar">
+          <h2>Jafar</h2>
+          <img src="https://vignette.wikia.nocookie.net/disney/images/6/60/Profile_-_Jafar.jpeg/revision/latest/scale-to-width-down/516?cb=20190312023726" alt="Jafar from Disney's Aladdin" width="50%">
+          <h3>His charming and slick personality will have you mesmerized. If he gets his way, he will be carrying you across the threshold of an Arabian Place he commandeered.</h3>
+        </div>
+        <div class="pocahontas">
+          <h2>Pocahontas</h2>
+          <img src="https://vignette.wikia.nocookie.net/disney/images/6/60/Profile_-_Jafar.jpeg/revision/latest/scale-to-width-down/516?cb=20190312023726" alt="Pocahontas from Disney's Pocahontas" width="50%">
+          <h3>His charming and slick personality will have you mesmerized. If he gets his way, he will be carrying you across the threshold of an Arabian Place he commandeered.</h3>
+        </div>
+  </div>
 </body>
 </html>

@@ -6,7 +6,7 @@ $(document).ready(function() {
     let color = $("#location").val();
     let location = $("location").val();
 
-    $(".flounder, .merlin, .cruella, .ursula, .jafar, .pocahontas").hide();
+    $(".flounder, .merlin, .cruella, .ursala, .jafar, .pocahontas").hide();
 
     if (age) {   
       if (age < 18) {
@@ -19,13 +19,13 @@ $(document).ready(function() {
           $(".cruella, .matchTitle").show(1000);  
         }
         else if (age >= 18 && age < 25 || color === "purple" && location === "ocean") {
-          $(".jafar, .matchTitle").show(1000);  
+          $(".ursala, .matchTitle").show(1000);  
         }
         else if (age >= 18 && age < 25 || color === "black" && location === "desert") {
           $(".jafar, .matchTitle").show(1000);  
         }
         else {
-          $(".pocahontas, .matchTitle").show(500);
+          $(".pocahontas, .matchTitle").show(1000);
         }      
       }
       else {

@@ -1,4 +1,4 @@
-# _Celebrity Match_
+# _Match Maker_
 
 #### _Application matches you with your ideal Disney mate., 8.13.2020_
 

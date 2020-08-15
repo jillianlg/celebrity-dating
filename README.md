@@ -13,7 +13,7 @@ _This HTML demonstrates the fundamental understanding of using branching with fo
 * _Clone down repository from Git Hub to machine._
 * _Navigate to root directory._
 * _Open index.html in text editor to view code._
-* _Launch index.html to in browser to display._
+* _Launch index.html to in browser to display or view on [gh pages](https://jillianlg.github.io/match-maker/)_
 
 
 ## Known Bugs

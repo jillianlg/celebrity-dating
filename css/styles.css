@@ -7,6 +7,12 @@ body {
 }
 .btn{
   background-color: #006e99;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .mainHeader{
